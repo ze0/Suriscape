@@ -1,0 +1,8 @@
+	RiddleID	Key	Step	Text
+0	Riddle0	start	0	Ouais je sais je ressemble pas à un suricate, mais me juge pas trop vite
+1	Riddle0	start	1	C’est pas facile d’être different tu sais, enfin non tu sais pas t’es qu’un enfant.
+2	Riddle0	start	2	Bon si tu veux pas mourir appuie sur le bouton VERT
+3	Riddle0	mid	0	T’est stupide ou sourd ? Tu veux que je répète ?
+4	Riddle0	mid	1	Si tu veux pas mourir appuie sur le bouton VERT, c’est simple non ? 
+5	Riddle0	OK	0	Ah beh voila, aller passe ! Court pour ta vie !
+6	Riddle0	KO	0	Ah . . . Tu voulais donc mourir . . . ton veux sera exaucer
